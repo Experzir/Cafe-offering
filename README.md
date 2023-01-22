@@ -4,6 +4,7 @@ GUI developer semi-project
 ### I Like cafe menu
 - Beverage : Show the beverage detail
 - Bakery : Show the bakery detail
+- Order : Order and calculate price
 
 ### GUI Interface
 ![q1](https://user-images.githubusercontent.com/71135805/213907762-36bc3243-839b-43b5-845d-9e857b83d0bf.png)
