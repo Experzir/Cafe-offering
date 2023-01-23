@@ -1,7 +1,7 @@
 # Cafe-offering
 GUI developer semi-project 
 
-### I Like cafe menu
+### Cafe-offering menu
 - Beverage : Show the beverage detail
 - Bakery : Show the bakery detail
 - Order : Order and calculate price
